@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(245, 233, 233);
+    font-size: 50px;
+    list-style-image: url(icdl.jpeg);
+
+
+}
+/* div{
+    width: 20px;
+} */
+.memo {display: block;}
+
+
+.megz {color: aqua;  
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+font-size: .5 rem;
+text-align: right;
+text-shadow:50px 20px navy;
+font-weight: 200;
+text-decoration-line: underline;
+text-decoration-color: black;
+text-underline-offset: 50px;
+text-wrap:wrap;
+display: inline;
+}
+.moma {display: inline;}
+.j {display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+h1{color: blue;}
+
+h1{font-size: medium; }
+
+
